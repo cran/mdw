@@ -1,0 +1,17 @@
+c8d61f2a7361670466f436e9600bc8d9 *ChangeLog
+dc914d915b909e7461959a9a0c09b6b2 *DESCRIPTION
+ee7d69a4160549ea200fd82f08ca320d *NAMESPACE
+c3529020b7ab2dd9fac52e7ef4eb73aa *R/asym.v.e.R
+27a62aec83f0ac8594dfa72453516fd4 *R/asym.v.v.R
+818f18f18e2ce7b442b9efdde1a7138c *R/entropy.weight.R
+7d03d6ffa8f6e330df744c1bb87e1cd5 *R/pca.weight.R
+52102f08515998590686d823f893be7e *R/var.weight.R
+a616e808bd826e929f56223020649675 *inst/unitTests/Makefile
+630caf7a1d55b84135b32e5358454b71 *inst/unitTests/runRUnitTests.R
+25e3444420263b567c8ddf6215c592dd *inst/unitTests/runit.weight.R
+789180a8cc7bb834e4653a370b36e5e3 *man/asym.v.e.Rd
+904936eda88cda1581fa7348ef84d593 *man/asym.v.v.Rd
+a36e8c36b1c77839db4f7e90ea93b7bb *man/entropy.weight.Rd
+386bdbd46e189018d296b8f313544f3e *man/pca.weight.Rd
+313405b4f70e5a30dd27ce9dcb0587ec *man/var.weight.Rd
+7f418a3aa68fb5762dccbc731985ab74 *tests/doRUnit.R
