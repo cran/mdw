@@ -1,5 +1,5 @@
 c8d61f2a7361670466f436e9600bc8d9 *ChangeLog
-dc914d915b909e7461959a9a0c09b6b2 *DESCRIPTION
+cae4ea9629a9104c7895f216a57e17eb *DESCRIPTION
 ee7d69a4160549ea200fd82f08ca320d *NAMESPACE
 c3529020b7ab2dd9fac52e7ef4eb73aa *R/asym.v.e.R
 27a62aec83f0ac8594dfa72453516fd4 *R/asym.v.v.R
@@ -14,4 +14,4 @@ a616e808bd826e929f56223020649675 *inst/unitTests/Makefile
 a36e8c36b1c77839db4f7e90ea93b7bb *man/entropy.weight.Rd
 386bdbd46e189018d296b8f313544f3e *man/pca.weight.Rd
 313405b4f70e5a30dd27ce9dcb0587ec *man/var.weight.Rd
-7f418a3aa68fb5762dccbc731985ab74 *tests/doRUnit.R
+6747560e108098c69af18bb6f5228e78 *tests/doRUnit.R
