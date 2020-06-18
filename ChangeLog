@@ -1,5 +1,8 @@
 2017-08-23  
-
     * create package
 
-
+2019-08-16
+    * Version 2019-07-21 misses several files that are in 2019-07-19. Manually merge the two
+    
+2020-06-16
+    * Add tree.weight
