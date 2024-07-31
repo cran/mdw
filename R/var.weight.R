@@ -67,7 +67,7 @@ var.weight <-function(X,method=c('optim','mosek')){
                        j = ind.col,
                        v = values)
     fit.mosek <- Rmosek::mosek(var.w,opts=list(verbose=0))
-    if ( class (fit.mosek$sol$itr$xx) == "NULL" ){
+    if ( inherits (fit.mosek$sol$itr$xx, "NULL") ){
       res=rep(NA,p)
     } else{
       res=fit.mosek$sol$itr$xx

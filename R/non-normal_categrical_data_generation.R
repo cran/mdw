@@ -74,7 +74,8 @@ sim.dat <- function(dist,nlv,n,p,rho,scenario='na'){
           R=diag(p)
         R[1,2]=R[2,1]=R[4,5]=R[5,4]=rho
       }
-      X=MethylCapSig::mvlognormal(n=n,Mu=Mu,Sigma=Sigma,R=R)
+      # X=MethylCapSig::mvlognormal(n=n,Mu=Mu,Sigma=Sigma,R=R)
+      stop("stopped since MethylCapSig is not on CRAN anymore")
     } else if(dist=='t'){
       if(p==5){
         if(scenario=='a'){
